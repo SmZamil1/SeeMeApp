@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.4.4",
+  "latest_build": 144,
+  "min_supported_build": 140,
+  "title": "SeeMe update available",
+  "notes": "Stable connection code, partner Me/Partner views, real app icons, better live notification, permission onboarding, smaller APK.",
+  "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
+  "force": false
+}
