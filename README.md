@@ -4,7 +4,9 @@ Latest APK: [Releases](https://github.com/SmZamil1/SeeMeApp/releases/latest)
 
 Direct: https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk
 
-- Privacy: https://seemeapp.pro.bd/p/privacy
-- Support: support@seemeapp.pro.bd
+## Editable without rebuild
+- `config.json` → Bangla notice + support email + WhatsApp + privacy URL
+- `update.json` → in-app update target
 
-Source is private. This repo only hosts APKs + `update.json` for in-app updates.
+Privacy: https://seemeapp.pro.bd/p/privacy  
+Support: support@seemeapp.pro.bd

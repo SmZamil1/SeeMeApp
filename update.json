@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.3.1",
-  "latest_build": 1431,
+  "latest_version": "1.4.3.2",
+  "latest_build": 1432,
   "min_supported_build": 140,
   "title": "SeeMe update available",
-  "notes": "First-run setup only once, smoother UI, premium Home, stable codes, partner views, real app icons.",
+  "notes": "Background tracking when app closed, mutual wait status, bigger notification heart, remote notice/email from GitHub, stronger permissions.",
   "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
   "force": false
 }
