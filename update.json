@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.3.7",
-  "latest_build": 1437,
+  "latest_version": "1.4.3.5",
+  "latest_build": 1435,
   "min_supported_build": 140,
   "title": "SeeMe update available",
-  "notes": "v1.4.3.7: Permissions hub (Usage→Overlay→Accessibility), Focus Mode app block overlay, Infinix long-press unlock guide (no hidden menu), smaller APK.",
+  "notes": "v1.4.3.5: Permissions hub (Usage→Overlay→Accessibility), Focus Mode app block overlay, Infinix long-press unlock guide (no hidden menu), smaller APK.",
   "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
   "force": false
 }
