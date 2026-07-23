@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.3.2",
-  "latest_build": 1432,
+  "latest_version": "1.4.3.5",
+  "latest_build": 1435,
   "min_supported_build": 140,
   "title": "SeeMe update available",
-  "notes": "Background tracking when app closed, mutual wait status, bigger notification heart, remote notice/email from GitHub, stronger permissions.",
+  "notes": "v1.4.3.5: Fix Restricted setting unlock flow (App info → Allow restricted settings), remove QUERY_ALL_PACKAGES to reduce Play Protect flags, softer accessibility surface, clearer setup guidance. Realtime partner activity unchanged.",
   "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
   "force": false
 }
