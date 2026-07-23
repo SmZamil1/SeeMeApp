@@ -1,0 +1,53 @@
+[
+  {
+    "id": "seeme-chat",
+    "name": "SeeMe Chat",
+    "publisher": "SmZamil1",
+    "description": "A fast, secure, and lightweight messaging app for seamless communication. Stay connected with friends and family with high privacy standards and clean design.",
+    "icon": "https://via.placeholder.com/100/007AFF/FFFFFF?text=Chat",
+    "screenshots": [
+      "https://via.placeholder.com/250x500/F2F2F7/000000?text=Chat+Screen",
+      "https://via.placeholder.com/250x500/F2F2F7/000000?text=Profile+View",
+      "https://via.placeholder.com/250x500/F2F2F7/000000?text=Settings"
+    ],
+    "downloadLink": "https://example.com/download/seeme-chat.apk",
+    "totalDownloads": 15400,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Alex Rivera",
+        "stars": 5,
+        "date": "2026-07-20",
+        "comment": "Incredible speed and clean interface. Love using it every day!"
+      },
+      {
+        "user": "Samira Khan",
+        "stars": 4,
+        "date": "2026-07-14",
+        "comment": "Great app overall. Looking forward to dark mode updates."
+      }
+    ]
+  },
+  {
+    "id": "seeme-vault",
+    "name": "SeeMe Vault",
+    "publisher": "SmZamil1",
+    "description": "Secure your private photos, videos, and documents behind encrypted security layers. Protect your personal files easily.",
+    "icon": "https://via.placeholder.com/100/34C759/FFFFFF?text=Vault",
+    "screenshots": [
+      "https://via.placeholder.com/250x500/F2F2F7/000000?text=Lock+Screen",
+      "https://via.placeholder.com/250x500/F2F2F7/000000?text=Gallery+Vault"
+    ],
+    "downloadLink": "https://example.com/download/seeme-vault.apk",
+    "totalDownloads": 8200,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "David M.",
+        "stars": 5,
+        "date": "2026-07-10",
+        "comment": "Works flawlessly for keeping private files hidden."
+      }
+    ]
+  }
+]
