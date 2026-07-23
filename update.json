@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.3.6",
-  "latest_build": 1436,
+  "latest_version": "1.4.3.7",
+  "latest_build": 1437,
   "min_supported_build": 140,
   "title": "SeeMe update available",
-  "notes": "v1.4.3.6: In-app Unlock blocked settings (opens Android restricted-settings page — no hidden menu). Smaller APK (arm64 split + compressed assets). Clearer Accessibility/Notification unlock flow.",
+  "notes": "v1.4.3.7: Permissions hub (Usage→Overlay→Accessibility), Focus Mode app block overlay, Infinix long-press unlock guide (no hidden menu), smaller APK.",
   "apk_url": "https://github.com/SmZamil1/SeeMeApp/releases/latest/download/SeeMe.apk",
   "force": false
 }
